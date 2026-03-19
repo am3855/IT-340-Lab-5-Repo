@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "Enter First Name:"
+read fname
+echo "Enter Last Name:"
+read lname
+echo "Enter Hours Worked:"
+read hours
+echo "Enter Description of Work:"
+read description
+echo "$fname $lname, $hours hours, $description" >> /home/developers/Lab_5_workspace/logs/timesheet.log
+cp /home/developers/Lab_5_workspace/logs/timesheet.log /home/developers/Lab_5_workspace/data
