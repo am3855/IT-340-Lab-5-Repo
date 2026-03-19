@@ -1,0 +1,324 @@
+ 15:19:01 up 41 min,  1 user,  load average: 0.35, 0.17, 0.16
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2470244      249864       71764     1140496     1490252
+Swap:        3861500       54640     3806860
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.1G  9.5G  49% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  148K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:20:01 up 42 min,  1 user,  load average: 0.20, 0.16, 0.15
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2477328      241408       71752     1141904     1483168
+Swap:        3861500       54640     3806860
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.1G  9.5G  49% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  148K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:21:01 up 43 min,  1 user,  load average: 0.07, 0.12, 0.14
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2476484      241932       71752     1142268     1484012
+Swap:        3861500       54640     3806860
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.1G  9.5G  49% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  148K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:22:01 up 44 min,  1 user,  load average: 0.19, 0.16, 0.15
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2482808      222048       71784     1145956     1477688
+Swap:        3861500       54636     3806864
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.1G  9.5G  49% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  148K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:23:01 up 45 min,  1 user,  load average: 0.39, 0.22, 0.18
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2665240      127492       71776     1181624     1295256
+Swap:        3861500       56024     3805476
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.4G  9.2G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  148K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:24:01 up 46 min,  1 user,  load average: 0.51, 0.28, 0.20
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2644352      144008       77400     1198200     1316144
+Swap:        3861500       66380     3795120
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.4G  9.2G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:25:01 up 47 min,  1 user,  load average: 1.27, 0.55, 0.30
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2651628      125464       74028     1204724     1308868
+Swap:        3861500       66184     3795316
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.4G  9.2G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:26:01 up 48 min,  1 user,  load average: 1.20, 0.70, 0.37
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2544808      246960       77056     1193148     1415688
+Swap:        3861500       84588     3776912
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.4G  9.2G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:27:01 up 49 min,  1 user,  load average: 0.81, 0.65, 0.37
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2551176      231544       69720     1173720     1409320
+Swap:        3861500       92228     3769272
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.4G  9.2G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:28:01 up 50 min,  1 user,  load average: 0.49, 0.58, 0.36
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2684324      147000       67284     1124364     1276172
+Swap:        3861500      111680     3749820
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.4G  9.2G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:29:01 up 51 min,  1 user,  load average: 0.38, 0.52, 0.35
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2582296      201276       67280     1138016     1378200
+Swap:        3861500      111680     3749820
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.4G  9.2G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:30:01 up 52 min,  1 user,  load average: 0.14, 0.42, 0.33
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2585316      143068       67292     1169452     1375180
+Swap:        3861500      111556     3749944
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.4G  9.2G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:31:01 up 53 min,  1 user,  load average: 0.05, 0.34, 0.31
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2556412      161636       69960     1173192     1404084
+Swap:        3861500      111556     3749944
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.4G  9.2G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:32:01 up 54 min,  1 user,  load average: 0.24, 0.33, 0.30
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2578864      121896       69956     1185548     1381632
+Swap:        3861500      111540     3749960
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.4G  9.2G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:33:01 up 55 min,  1 user,  load average: 0.31, 0.35, 0.31
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2581672      189116       68548     1126572     1378824
+Swap:        3861500      129696     3731804
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.4G  9.2G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:34:01 up 56 min,  1 user,  load average: 0.24, 0.32, 0.30
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2632540      130968       65500     1118556     1327956
+Swap:        3861500      134044     3727456
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.4G  9.2G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:35:01 up 57 min,  1 user,  load average: 0.47, 0.40, 0.33
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2628772      150952       62592     1035340     1331724
+Swap:        3861500      157852     3703648
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.4G  9.2G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:38:17 up  1:00,  1 user,  load average: 0.02, 0.21, 0.27
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2690844      116976       62192     1017752     1269652
+Swap:        3861500      160656     3700844
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.4G  9.2G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:38:17 up  1:00,  1 user,  load average: 0.02, 0.21, 0.27
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2701012      147732       61048      993840     1259484
+Swap:        3861500      172276     3689224
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.4G  9.2G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:38:17 up  1:00,  1 user,  load average: 0.02, 0.21, 0.27
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2701996      146748       61048      993840     1258500
+Swap:        3861500      172276     3689224
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.4G  9.2G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:39:08 up  1:01,  1 user,  load average: 1.55, 0.68, 0.43
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2463140      452284       51784     1022776     1497356
+Swap:        3861500      229612     3631888
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:40:01 up  1:02,  1 user,  load average: 0.67, 0.58, 0.41
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2455672      447780       51776     1023848     1504824
+Swap:        3861500      229612     3631888
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:41:01 up  1:03,  1 user,  load average: 0.24, 0.47, 0.38
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2454760      446380       51776     1025220     1505736
+Swap:        3861500      229612     3631888
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:42:01 up  1:04,  1 user,  load average: 1.41, 0.71, 0.46
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     1353388     1724992       32664     1190556     2607108
+Swap:        3861500       43672     3817828
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  124K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:43:01 up  1:05,  1 user,  load average: 0.52, 0.58, 0.43
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     1294292     1781976       34940     1195312     2666204
+Swap:        3861500       43672     3817828
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:44:01 up  1:06,  1 user,  load average: 1.13, 0.71, 0.48
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2101444      469772       72388     1624152     1859052
+Swap:        3861500       43636     3817864
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
+ 15:45:01 up  1:07,  1 user,  load average: 1.37, 0.88, 0.55
+               total        used        free      shared  buff/cache   available
+Mem:         3960496     2006392      523308       72400     1625148     1954104
+Swap:        3861500       43636     3817864
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1002
+/dev/sr0         94M   94M     0 100% /media/sysadmin/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/sysadmin/Ubuntu 24.04.3 LTS amd64
